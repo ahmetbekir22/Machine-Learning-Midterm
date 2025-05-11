@@ -1,6 +1,4 @@
-Güzel fikir! Aşağıda tablo formatında güncellenmiş haliyle veriyorum. Bu haliyle hem daha profesyonel hem de okunabilir:
 
----
 
 # Machine Learning Midterm Project - SE3007
 
@@ -92,7 +90,7 @@ This repository contains the implementation and results of the midterm project f
 
 This repository was created as part of the **SE3007: Introduction to Machine Learning** course, instructed by **Dr. Selim Yılmaz**.
 
-This codebase is intended **only for educational purposes**. Future students from the same department may refer to this work, but **direct usage or submission without proper understanding will be considered academic dishonesty**. Always prioritize learning over copying! 
+This codebase is intended **only for educational purposes**. Future students from the same department may refer to this work, but **direct usage or submission without proper understanding will be considered academic dishonesty**. Always prioritize learning over copying!  
 
 ---
 
